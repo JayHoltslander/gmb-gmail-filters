@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1531153903968,1531153987848,1531158113507,3697857438024020109,z0000001569860623321*3061956566924608594,z0000001569860671623*0666627698324592331,z0000001569971321849*1361366077094022004,z0000001570057654542*0890024880202652443,z0000001570125466188*6976068710498899433,z0000001570129627622*7105901530057034662,z0000001570467800530*5602516572832156871,z0000001570473690683*7048252201004387619</id>
+	<updated>2019-10-07T18:42:44Z</updated>
+	<author>
+		<name>Jay Holtslander</name>
+		<email>jay@holtslander.ca</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1531153903968</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;Your post is about to expire&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1531153987848</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;it&apos;s been a while since your last post&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1531158113507</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='subject' value='&quot;noticed with a live post on Google&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:3697857438024020109</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='subject' value='Notice: Your post is about to expire'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001569860623321*3061956566924608594</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Good job, you got a new 5-star review'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001569860671623*0666627698324592331</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='You got a new 1-star review'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001569971321849*1361366077094022004</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Good job, you got a new 5-star review&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001570057654542*0890024880202652443</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Well done, your post got&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001570125466188*6976068710498899433</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;are more likely to visit a business with photos on Google&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001570129627622*7105901530057034662</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Your previous post is about to disappear from your Business Profile. Create a new post with special deals, news or updates to make your business stand out.&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001570467800530*5602516572832156871</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Good job, you got a new 4-star review&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001570473690683*7048252201004387619</id>
+		<updated>2019-10-07T18:42:44Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='&quot;Your previous post is about to disappear from your Business Profile&quot;'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
